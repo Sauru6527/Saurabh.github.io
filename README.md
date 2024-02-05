@@ -5,10 +5,9 @@
 *Independent and self-motivated with proven negotiation skills, exploring the data landscape and building connections.*
 
 - **Email:** saurabh6527@gmail.com
-- **Phone:** +91 727-265-27
 - **Location:** Shirdi, India
-- **LinkedIn:** https://www.linkedin.com/in/saurabh-aher-13653621b
-- **GitHub:** github.com/Sauru6527
+- **Email:** [saurabh6527@gmail.com](mailto:saurabh6527@gmail.com)
+- **GitHub:** [Sauru6527](https://github.com/Sauru6527)
 - **Phone:** [+91 727-265-27](tel:+9172726527)
 - **LinkedIn:** [Saurabh Aher](https://www.linkedin.com/in/saurabh-aher-13653621b)
 
