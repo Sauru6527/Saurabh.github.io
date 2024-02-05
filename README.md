@@ -10,7 +10,7 @@
 - **LinkedIn:** [Saurabh Aher](linkedin.com/in/saurabh-aher-13653621b)
 - **GitHub:** [Sauru6527](github.com/Sauru6527)
 
-## Skills 💻
+## Skill 💻 
 
 - Open-Minded 🌐
 - Communication Skills 🗣️
