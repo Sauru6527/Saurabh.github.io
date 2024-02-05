@@ -10,8 +10,8 @@
 - **LinkedIn:** https://www.linkedin.com/in/saurabh-aher-13653621b
 - **GitHub:** github.com/Sauru6527
 - **Phone:** [+91 727-265-27](tel:+9172726527)
+- **LinkedIn:** [Saurabh Aher](https://www.linkedin.com/in/saurabh-aher-13653621b)
 
-**LinkedIn:** [Saurabh Aher](https://www.linkedin.com/in/saurabh-aher-13653621b)
 
 
 ## Skill 💻 
