@@ -7,8 +7,8 @@
 - **Email:** saurabh6527@gmail.com
 - **Phone:** +91 727-265-27
 - **Location:** Shirdi, India
-- **LinkedIn:** [Saurabh Aher]([linkedin.com/in/saurabh-aher-13653621b](https://www.linkedin.com/in/saurabh-aher-13653621b))
-- **GitHub:** [Sauru6527](github.com/Sauru6527)
+- **LinkedIn:** https://www.linkedin.com/in/saurabh-aher-13653621b
+- **GitHub:** github.com/Sauru6527
 
 ## Skill 💻 
 
