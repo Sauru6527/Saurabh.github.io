@@ -1,24 +1,24 @@
-# Saurabh Aher
+# 🚀 Saurabh Aher
 
-**Interested in trending Technology**
+**Passionate about Emerging Technologies**
 
-*Independent and self-motivated with proven negotiation skills, interested in data-related jobs, and enjoys connecting with new people.*
+*Independent and self-motivated with proven negotiation skills, exploring the data landscape and building connections.*
 
 - **Email:** saurabh6527@gmail.com
-- **Phone:** 9172726527
+- **Phone:** +91 727-265-27
 - **Location:** Shirdi, India
-- **LinkedIn:** [linkedin.com/in/saurabh-aher-13653621b](linkedin.com/in/saurabh-aher-13653621b)
-- **GitHub:** [github.com/Sauru6527](github.com/Sauru6527)
+- **LinkedIn:** [Saurabh Aher](linkedin.com/in/saurabh-aher-13653621b)
+- **GitHub:** [Sauru6527](github.com/Sauru6527)
 
-## Skills
+## Skills 💻
 
-- Open-Minded
-- Communication Skill
-- SOL
-- Marathi Handwriting
-- Cloud
+- Open-Minded 🌐
+- Communication Skills 🗣️
+- SOL ☀️
+- Marathi Handwriting ✒️
+- Cloud ☁️
 
-## Education
+## Education 🎓
 
 **B Tech Computer Sanjivani College Of Engineering**
 - *01/2021-Present*
@@ -28,7 +28,7 @@
 - *02/2018-02/2020*
 - Courses: Python, Data Structure
 
-## Personal Projects
+## Personal Projects 🚀
 
 1. **IPL Data Analysis (08/2022-01/2023)**
    - Location: Kopargaon, India
@@ -37,28 +37,28 @@
 2. **Uber Data Analysis (04/2023-05/2023)**
    - Implemented using Google Cloud Mage, Compute Instance, and Big-Query.
 
-## Work Experience
+## Work Experience 💼
 
 **Training/Student at Celebal Technology, Zensar Technology**
 - *08/2022-12/2022*
 - Information Technology and services
 - Location: Kopargaon, MH
 
-### Achievements
+### Achievements 🏆
 
-- Received recognition from Amdocs (04/23)
+- Recognized by Amdocs (04/23)
 - Puma bag for winning an interactive Guess Letter game at Amdocs, showcasing problem-solving and communication skills.
 - Celebal Python and SQL Trainings (08/2022-12/2022) - Shortlisted in GD Rounds
 - Zensar ESD Program (07/2022 - Present) - Shortlisted for free training in Python, SQL, Java.
 
-## Certificates
+## Certificates 📜
 
 - SQL and Relational Databases (03/2023-04/2023) - Powered by IBM Developer Skills Network
 - Python Infosys Springboard (09/2022-11/2022) - Certificate for Completing Python Course
 - Data Science Internship (07/2022-08/2022) - Certificate of Internship and course completion
 - AWS Academy (07/2022-08/2022) - Certificate for completion of AWS Cloud Foundations
 
-## Data Engineer Internship at Celebal Technology
+## Data Engineer Internship at Celebal Technology 💻
 
 - *04/2023-Present*
 - Hands-on Experience on:
@@ -69,21 +69,18 @@
   - SQL
   - Python
 
-## Languages
+## Languages 🌐
 
 - SOL
 - Python
 - C++
 - C
 
-## Interests
+## Interests 🌟
 
 - Data Science
 - Data Engineering
 - Cloud
-- Connecting with Peoples
+- Connecting with People
 - New Technology
 - Blogging
-- IoT Projects
-- Nature Photography
-
